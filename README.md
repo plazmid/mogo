@@ -1,5 +1,5 @@
-# Mogo Landing
-## Учебный проект Brains Cloud
+# Mogo Landing - учебный проект Brains Cloud
+## Выполнил Олег Бибиков
 ### Технологии:
 - HTML
 - CSS
