@@ -1,2 +1,6 @@
 # Mogo Landing
-## учебный проект канала Brains Cloud
+## Учебный проект Brains Cloud
+### Технологии:
+- HTML
+- CSS
+- JS (jQuery)
